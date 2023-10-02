@@ -1,0 +1,2 @@
+This is an example showing the add command in git. I am writing to fill the space. 
+Maybe I can write something that makes sense to everybody!
